@@ -22,6 +22,7 @@ Gameplay notes:
 -Don't hit the spikes, they kill you.
 -If you are in a bad spot, or if the portal didn't generate in a good spot (or if it didn't generate at all)
  press the r key (r) to reset the portal and the player ball.
+-Press q to quit without needing to click to close the window.
 
 Advanced gameplay:
 
